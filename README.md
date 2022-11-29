@@ -1,6 +1,6 @@
 # anonym
 Aim: investigate the anonymity of zhihu.com based on completely anonymous posts. <br>
-Zhihu is basically a Chinese version of Quora. It allows users to answer questions anonymously  
+Zhihu is basically a Chinese version of Quora. It allows users to answer questions anonymously, not displaying the accounts of the users.  
 
 # Done
 collected the questions, answers, and comments under the topic 'anonymity' on Zhihu
